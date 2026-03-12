@@ -29,4 +29,4 @@ The goal of this repository is to provide all the files required to reproduce, m
 - **Altium Designer project** – complete PCB design files
 - **Schematics** – circuit diagrams of the system
 - **Gerber files** – ready for PCB manufacturing
-- **Firmware binary** – compiled file for programming the microcontroller
+- **Firmware binary** – compiled file for programming the microcontroller (soon will be available)
