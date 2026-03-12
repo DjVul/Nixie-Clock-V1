@@ -1,7 +1,7 @@
 # Nixie-Clock-V1
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b042b10e-0bf0-4d63-bf84-9d530f95d11d" width="80%" alt="IN-12 Nixie Tube Clock">
+  <img src="https://github.com/user-attachments/assets/b042b10e-0bf0-4d63-bf84-9d530f95d11d" alt="IN-12 Nixie Tube Clock">
 </p>
 
 <p align="center">
